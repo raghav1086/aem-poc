@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-10-13T14:13:50.431+08:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/training/templates/page-content"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Products"
+        sling:resourceType="training/components/page-content">
+        <title
+            jcr:lastModified="{Date}2016-10-13T14:06:24.063+08:00"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            jcr:subtitle="10/21/16"
+            jcr:title="AEM Training Day 2"
+            sling:resourceType="training/components/training-title"
+            name="title"
+            subtitle="10/20/16"
+            title="Training day 2"/>
+        <profile
+            jcr:lastModified="{Date}2016-10-13T13:54:10.334+08:00"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="training/components/profile"
+            country=" Clifford Chance, Paris"
+            name="THIERRY ARACHTINGI"
+            practiceArea="Banking &amp; finance "
+            sector="Funds &amp; investment management, Private equity, Telecommunications, media &amp; technology "
+            telephone="33144055292">
+            <image/>
+        </profile>
+        <content
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/parsys">
+            <training_title
+                jcr:created="{Date}2016-10-13T14:07:53.582+08:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2016-10-13T14:12:52.639+08:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="training/components/training-title"
+                name="Training day 2"/>
+            <profile
+                jcr:created="{Date}2016-10-13T14:12:32.500+08:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2016-10-13T14:13:50.423+08:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="training/components/profile"
+                country="China"
+                name="Some Name"
+                practiceArea="Retail, Communication"
+                sector="IT"
+                telephone="66600021">
+                <image/>
+            </profile>
+        </content>
+    </jcr:content>
+    <circle/>
+    <triangle/>
+    <square/>
+</jcr:root>

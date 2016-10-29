@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>pwc - UI apps</comment>
+<entry key="createdBy">appledev120</entry>
+<entry key="name">pwc.ui.apps</entry>
+<entry key="created">2016-10-23T13:59:56.517+0800</entry>
+<entry key="groupId">pwc</entry>
+<entry key="version">1.0 snapshots</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">pwc</entry>
+<entry key="description">UI apps package for pwc</entry>
+<entry key="artifactId">pwc.ui.apps</entry>
+<entry key="path">/etc/packages/pwc/pwc.ui.apps.zip</entry>
+</properties>

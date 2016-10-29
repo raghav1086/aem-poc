@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/training">
+    <!--<exclude pattern="/apps/pwc/install" />-->
+    </filter>
+    <filter root="/apps/gift-app">
+    <!--<exclude pattern="/apps/pwc/install" />-->
+    </filter>
+    <filter root="/etc/designs/trainingDesign"/>
+    <filter root="/etc/designs/gift"/>
+    <filter root="/apps/sling" />
+    <filter root="/etc/designs/pwc"/>
+</workspaceFilter>
